@@ -1,0 +1,2 @@
+# Paketleyici
+Paketleyici is an incomplete (as in very basic and limited in terms of features, examples) packager and runner. It allows you to ship only a single executable to the end user. You provide the tarball and the command to run after unpacking the tarball. This allows you to ship additional files with your executable/code, and run them as a single file. See spec.md to how to configure config.json. Paket is the runner, and Paketleyici is the packager.

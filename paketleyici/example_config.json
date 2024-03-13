@@ -1,0 +1,8 @@
+{
+  "paket": "paket.exe",
+  "tarball": "example_app.tar",
+  "folder": "example-app-v1",
+  "command": ["exampleapp.exe"],
+  "args_pos": 0,
+  "append_path": false
+}
